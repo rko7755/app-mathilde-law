@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Undercover — Arbitre",
-  description: "Arbitre IA pour le jeu Undercover",
+  title: "Undercover — Coach",
+  description: "Coach IA pour le jeu Undercover",
 };
 
 export default function RootLayout({
